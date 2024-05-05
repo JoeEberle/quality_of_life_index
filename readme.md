@@ -48,5 +48,5 @@ To get started with the **Quality Of Life Index** solution repository, follow th
 ![Brand](brand.png)
     
 ## Deliverables or Figures
- ![additional_image](quality_of_life_index.png)  <br>![additional_image](solution_stacked_sign.png)  <br>
+ ![additional_image](quality_of_life_index.png)  <br>
     
