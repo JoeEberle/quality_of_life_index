@@ -1,4 +1,6 @@
 
+![Image image_filename](solution_sign.png)
+
 # Quality Of Life Index - Calculated index of monthly life quality from initial (denovo) diagnosis of major disease
 Calculated index of monthly life quality from initial (denovo) diagnosis of major disease
 
@@ -9,8 +11,6 @@ Welcome to the solution **Quality Of Life Index** - an example for your projects
 Calculated index of monthly life quality from initial (denovo) diagnosis of major disease
 
 ![Image image_filename](sample.png)
-
-![Image image_filename](solution_sign.png)
 
 ## Solution Features
 - Easy to understand and use  
