@@ -39,11 +39,8 @@ To get started with the **Quality Of Life Index** solution repository, follow th
  ![additional_image](quality_of_life_index.png)  <br>
     
 
-## Github    
-## https://github.com/JoeEberle/ 
-
-## Email 
-## josepheberle@outlook.com 
+## Github    https://github.com/JoeEberle/ 
+## Email  josepheberle@outlook.com 
 
     
 ![Developer](developer.png)
